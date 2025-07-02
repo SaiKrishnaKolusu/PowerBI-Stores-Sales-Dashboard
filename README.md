@@ -1,5 +1,3 @@
-# Power BI Retail Sales Analytics Dashboard
-
 An end-to-end Power BI project featuring two integrated dashboards — *Store Sales Performance* and *15-Day Sales Forecast* — designed to provide a comprehensive overview of historical retail data, customer behavior, shipping trends, and future sales projections across U.S. states.
 
 ## 📊 Overview:
